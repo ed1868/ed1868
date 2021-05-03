@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hey there, My name is Eddie  :tophat:
 
-<!--
-**ed1868/ed1868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a Software Engineer based in the USA. My current focus has been Blockchain technology and Artificial Intelligence. I bring these ideas to life using the MERN stack, Ethereum, Solidity, Web3 and python. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you need any help on a project, feel free to shoot me a message or get in contact with me through the social media links below.
+
+### Connect with me:
+
+<p align="left">
+    <a href="https://github.com/ed1868">
+        <img src="https://img.shields.io/github/followers/girgetto.svg?label=GitHub&style=social" alt="GitHub Eddie">
+    </a>
+    <a href="https://twitter.com/hwek21">
+        <img src="https://img.shields.io/twitter/follow/__Giorgio_?label=Twitter&style=social" alt="Twitter Eddie">
+    </a>
+    <a href="https://www.instagram.com/hwek21/">
+        <img src="https://img.shields.io/badge/Instagram--_.svg?label=Instagram&style=social&logo=instagram" alt="Instagram">
+    </a>
+    <a href="https://www.linkedin.com/in/eddie-ruiz/">
+        <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
+    </a>
+
+</p>
+
