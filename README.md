@@ -1,7 +1,7 @@
 ### Hey there, My name is Eddie  :tophat:
 
 
-I'm a Software Engineer based in the USA. My current focus has been Blockchain technology and Artificial Intelligence. I bring these ideas to life using the MERN stack, Ethereum, Solidity, Web3 and python. 
+I'm a Software Engineer. My current focus has been Blockchain technology and Artificial Intelligence. I bring these ideas to life using the MERN stack, Ethereum, Solidity, Web3 and python. 
 
 If you need any help on a project, feel free to shoot me a message or get in contact with me through the social media links below.
 
